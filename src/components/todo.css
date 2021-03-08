@@ -1,0 +1,19 @@
+.red{
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+    margin-top: 5px;
+}
+
+
+.todo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+    margin-top: 5px;
+
+    background-color: rgb(198, 157, 236);
+}
